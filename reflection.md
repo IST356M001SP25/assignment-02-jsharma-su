@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jiya Sharma
+Sudent Email:  jsharma@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I learned last time that running tests are important and I am happy to be able to know how to continue to run these tests to see the importance of them. I definitely struggled with creating the parse of a string. I was struggling with what to start with writing in the code. I was able to understand the input and output parts of the code which was helpful in my understanding on what to write. I did also struggle with figuring out what was missing in different parts of my code. For example, I was confused on why my quantity wasn't working until I finally realized I needed to say that they were integers and put the int in front of my items. I also learned about strings even further than in class because I was able to understand why a string is needed in the situation where I would need to make sure the outputs were what I intended.
